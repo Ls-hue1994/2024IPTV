@@ -312,8 +312,6 @@ http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hncpd
 #EXTINF:-1 tvg-id="1874" tvg-name="北京纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-jskj.png" group-title="地方-北京",北京纪实
 http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bjjskj
 
-#EXTINF:-1,tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-kkse.png" group-title="地方-北京",卡酷少儿
-http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bjkkse
 
 
 #EXTINF:-1 tvg-id="6015" tvg-name="大湾区卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-dwqws.png" group-title="地方-大湾区",大湾区卫视
