@@ -271,3 +271,641 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV1.png" group-title="央视",CCTV综合
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv01zh
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV2.png" group-title="央视",CCTV经济
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv02jj
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV3.png" group-title="央视",CCTV综艺
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv03zy
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4.png" group-title="央视",CCTV国际
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv04zw
+
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4-OZ.png" group-title="央视",CCTV欧洲
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv04oz
+
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4-MZ.png" group-title="央视",CCTV美洲
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv04mz
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV5.png" group-title="央视",CCTV体育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv05ty
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV5P.png" group-title="央视",CCTV5+
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv05pl
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV6.png" group-title="央视",CCTV电影
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv06dy
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV7.png" group-title="央视",CCTV军事
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv07js
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV8.png" group-title="央视",CCTV电视剧
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv08dsj
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV9.png" group-title="央视",CCTV记录
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv09jl
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV10.png" group-title="央视",CCTV教育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv10jy
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV11.png" group-title="央视",CCTV戏曲
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv11xq
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV12.png" group-title="央视",CCTV法治
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv12sf
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV13.png" group-title="央视",CCTV新闻
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv13xw
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV14.png" group-title="央视",CCTV少儿
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv14se
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV15.png" group-title="央视",CCTV音乐
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv15yy
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV16.png" group-title="央视",CCTV奥运
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv16ay
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV17.png" group-title="央视",CCTV农业
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv17ny
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4K.png" group-title="央视",CCTV4K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctv4k
+
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-GQDY.png" group-title="央视",,CHC高清电影
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=chcgqdy
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-DZDY.png" group-title="央视",,CHC动作电影
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=chcdzdy
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-JTYY.png" group-title="央视",,CHC家庭影院
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=chcjtyy
+
+
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-GEFWQ.png" group-title="央视",高尔夫网球
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvgefwq
+
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-FYZQ.png" group-title="央视",风云足球
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvfyzq
+
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-FYYY.png" group-title="央视",风云音乐
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvfyyy
+
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-FYJC.png" group-title="央视",风云剧场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvfyjc
+
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-SJDL.png" group-title="央视",世界地理
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvsjdl
+
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-HJJC.png" group-title="央视",怀旧剧场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvhjjc
+
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-BQKJ.png" group-title="央视",兵器科技
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvbqkj
+
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-YSTQ.png" group-title="央视",央视台球
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvystq
+
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-DYJC.png" group-title="央视",第一剧场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvdyjc
+
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-NXSS.png" group-title="央视",女性时尚
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvnxss
+
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-YSJP.png" group-title="央视",央视精品
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvysjp
+
+#EXTINF:-1 tvg-id="6569" tvg-name="电视指南" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV-DSZN.png" group-title="央视",电视指南
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cctvdszn
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN.png" group-title="央视-CGTN",CGTN
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtn
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN-JL.png" group-title="央视-CGTN",CGTN纪录
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtnjl
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN-EY.png" group-title="央视-CGTN",CGTN俄语
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtney
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN-FY.png" group-title="央视-CGTN",CGTN法语
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtnfy
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN-XBYY.png" group-title="央视-CGTN",CGTN西语
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtnxy
+
+#EXTINF:-1 tvg-id=" " tvg-name="CGTN" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CGTN-ALBY.png" group-title="央视-CGTN",CGTN阿语
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=cgtnay
+
+
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-CQ.png" group-title="卫视",重庆卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wschongqing
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-BJ.png" group-title="卫视",北京卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsbeijing
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HN.png" group-title="卫视",湖南卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wshunan
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JS.png" group-title="卫视",江苏卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsjiangsu
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-ZJ.png" group-title="卫视",浙江卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wszhejiang
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DF.png" group-title="卫视",东方卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsdongfang
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-AH.png" group-title="卫视",安徽卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsanhui
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GD.png" group-title="卫视",广东卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsguangdong
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SZ.png" group-title="卫视",深圳卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsshenzhen
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-LN.png" group-title="卫视",辽宁卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsliaoning
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HUBEI.png" group-title="卫视",湖北卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wshubei
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HLJ.png" group-title="卫视",黑龙江卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsheilongjiang
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HENAN.png" group-title="卫视",河南卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wshenan
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HEBEI.png" group-title="卫视",河北卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wshebei
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DN.png" group-title="卫视",东南卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsdongnan
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-TJ.png" group-title="卫视",天津卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wstianjing
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SD.png" group-title="卫视",山东卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsshandong
+
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JX.png" group-title="卫视",江西卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsjiangxi
+
+#EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GZ.png" group-title="卫视",贵州卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsguizhou
+
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HAINAN.png" group-title="卫视",海南卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wshainan
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SC.png" group-title="卫视",四川卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wssichuan
+
+#EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GX.png" group-title="卫视",广西卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsguangxi
+
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-YN.png" group-title="卫视",云南卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsyunnan
+
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JL.png" group-title="卫视",吉林卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsjilin
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GS.png" group-title="卫视",甘肃卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsgansu
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-QH.png" group-title="卫视",青海卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsqinghai
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NMG.png" group-title="卫视",内蒙古卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsneimenggu
+
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XJ.png" group-title="卫视",新疆卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsxinjiang
+
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SX.png" group-title="卫视",陕西卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsshanxi
+
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SHANXI.png" group-title="卫视",山西卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsshanxi1
+
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NX.png" group-title="卫视",宁夏卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsningxia
+
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XZ.png" group-title="卫视",西藏卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=wsxizang
+
+
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jbty.png" group-title="体育",劲爆体育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shjbty
+
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉HD" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-xsj.png" group-title="体育",新视觉HD
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shxsj
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-mlzq.png" group-title="体育",魅力足球
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shmlzq
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-wxty.png" group-title="体育",五星体育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shwxty
+
+
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-xwzh.png" group-title="地方-上海",新闻综合
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shxwzh
+
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dfys.png" group-title="地方-上海",东方影视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdfys
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jsrw.png" group-title="地方-上海",上海纪实
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shjsrw
+
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dspd.png" group-title="地方-上海",上海都市
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdspd
+
+#EXTINF:-1,tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-hhxd.png" group-title="地方-上海",哈哈炫动
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shhhxd
+
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dycj.png" group-title="地方-上海",第一财经
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdycj
+
+#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dfcj.png" group-title="地方-上海",东方财经
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdfcj
+
+#EXTINF:-1 tvg-id="1991" tvg-name="ICS外语" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-ics.png" group-title="地方-上海",上海ICS外语
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shics
+
+#EXTINF:-1 tvg-id=" " tvg-name="都市剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dsjc.png" group-title="地方-上海",都市剧场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdsjc
+
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-shss.png" group-title="地方-上海",生活时尚
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shshss
+
+#EXTINF:-1 tvg-id="1987" tvg-name="乐游" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-yy.png" group-title="地方-上海",乐游
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shlyqjs
+
+#EXTINF:-1,tvg-id=" " tvg-name="动漫秀场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dmxc.png" group-title="地方-上海",动漫秀场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shdmxc
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-hxjc.png" group-title="地方-上海",欢笑剧场
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shhxjc
+
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jsxt.png" group-title="地方-上海",金色学堂
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shjsxt
+
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-yxfy.png" group-title="地方-上海",游戏风云
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shyxfy
+
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-fztd.png" group-title="地方-上海",法治天地
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shfztd
+
+#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-qcxj.png" group-title="地方-上海",七彩戏剧
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=shqcxj
+
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-qcxj.png" group-title="地方-上海",上海教育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bestv_shjy
+
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-jyjs.png" group-title="地方-湖南",金鹰纪实
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hnjyjs
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-jykt.png" group-title="地方-湖南",金鹰卡通
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hnjykt
+
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-klcd.png" group-title="地方-湖南",快乐垂钓
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hnklcd
+
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-cpd.png" group-title="地方-湖南",茶频道
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hncpd
+
+#EXTINF:-1 tvg-id="1874" tvg-name="北京纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-jskj.png" group-title="地方-北京",北京纪实
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bjjskj
+
+#EXTINF:-1,tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-kkse.png" group-title="地方-北京",卡酷少儿
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bjkkse
+
+
+#EXTINF:-1 tvg-id="6015" tvg-name="大湾区卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-dwqws.png" group-title="地方-大湾区",大湾区卫视
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=gddwqws
+#EXTINF:-1 tvg-id="6015" tvg-name="大湾区卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-dwqws.png" group-title="地方-大湾区",大湾区卫视(备)
+
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-ty.png" group-title="地方-大湾区",广东体育
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=gdty
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-ty.png" group-title="地方-大湾区",广东体育(备)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=gdty1
+
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-zj.png" group-title="地方-大湾区",珠江频道
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=gdzjpd1
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/gd-zj.png" group-title="地方-大湾区",珠江频道(备)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=gdzjpd
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHWS.png" group-title="地方-大湾区",凤凰中文
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hkfhws
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHWS.png" group-title="地方-大湾区",凤凰中文(备1)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hkfhws1
+
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHZX.png" group-title="地方-大湾区",凤凰资讯
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hkfhzx
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHZX.png" group-title="地方-大湾区",凤凰资讯(备1)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hkfhzx1
+
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰香港" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHXG.png" group-title="地方-大湾区",凤凰香港
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hkfhxg
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰香港" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-FHXG.png" group-title="地方-大湾区",凤凰香港(备1)
+
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVB.png" group-title="地方-大湾区",翡翠台
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbfct
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVB.png" group-title="地方-大湾区",翡翠台(备1)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbfct1
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVB.png" group-title="地方-大湾区",明珠台
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbmzt
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVB.png" group-title="地方-大湾区",明珠台(备1)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbmzt1
+
+#EXTINF:-1 tvg-id=" " tvg-name="TVB星河" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVBXH.png" group-title="地方-大湾区",TVB星河
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbxh
+
+#EXTINF:-1 tvg-id=" " tvg-name="TVB星河" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-TVBXH.png" group-title="地方-大湾区",TVB星河(备1)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbxh1
+
+#EXTINF:-1 tvg-id=" " tvg-name="J2" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-J2.png" group-title="地方-大湾区",J2
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbj2
+
+#EXTINF:-1 tvg-id=" " tvg-name="J2" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/HK-J2.png" group-title="地方-大湾区",J2(备)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=hktvbj21
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4K.png" group-title="4K/8k",CCTV4K(50P)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4kys4k50pgd
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4K.png" group-title="4K/8k",CCTV4K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4kys4khlg
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV16-4K.png" group-title="4K/8k",CCTV奥运4K(50P)
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4kay4k50pgd
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV16-4K.png" group-title="4K/8k",CCTV奥运4K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4kay4khlg
+
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实科教8K" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-jsk8kj.png" group-title="4K/8k",北京纪实科教8K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=bjjs8k
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-hxjc.png" group-title="4K/8k",欢笑剧场4K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4khxjcsdr
+
+#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-huashu.png" group-title="4K/8k",华数4K
+http://129.226.149.79:4785/html/V4.php?access_token=wodewxLSG&id=4khuashu4k
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV1.png" group-title="回看-央视",CCTV综合
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv1
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV2.png" group-title="回看-央视",CCTV经济
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv2
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV3.png" group-title="回看-央视",CCTV综艺
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv3
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4.png" group-title="回看-央视",CCTV国际
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv4
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV5.png" group-title="回看-央视",CCTV体育
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv5
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV5P.png" group-title="回看-央视",CCTV5+
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv5p
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV6.png" group-title="回看-央视",CCTV电影
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv6
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV7.png" group-title="回看-央视",CCTV军事
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv7
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV8.png" group-title="回看-央视",CCTV电视剧
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv8
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV9.png" group-title="回看-央视",CCTV记录
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv9
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV10.png" group-title="回看-央视",CCTV教育
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv10
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV11.png" group-title="回看-央视",CCTV戏曲
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv11
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV12.png" group-title="回看-央视",CCTV法治
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv12
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV13.png" group-title="回看-央视",CCTV新闻
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv13
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV14.png" group-title="回看-央视",CCTV少儿
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv14
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV15.png" group-title="回看-央视",CCTV音乐
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv15
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV16.png" group-title="回看-央视",CCTV奥运
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv16
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV17.png" group-title="回看-央视",CCTV农业
+http://129.226.149.79:4785/html/V4back.php?/PLTV/&ip=0&access_token=wodewxLSG&id=cctv17
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV4K.png" group-title="回看-央视",CCTV4K
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=cctv4k
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CCTV16.png" group-title="回看-央视",CCTV奥运4K
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=cctv164k
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-CQ.png" group-title="回看-卫视",重庆卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=cqws
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-BJ.png" group-title="回看-卫视",北京卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=bjws
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HN.png" group-title="回看-卫视",湖南卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hunan
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JS.png" group-title="回看-卫视",江苏卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jsws
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-ZJ.png" group-title="回看-卫视",浙江卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=zjws
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DF.png" group-title="回看-卫视",东方卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dfws
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-AH.png" group-title="回看-卫视",安徽卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=ahws
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GD.png" group-title="回看-卫视",广东卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=gdws
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SZ.png" group-title="回看-卫视",深圳卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=szws
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-LN.png" group-title="回看-卫视",辽宁卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=lnws
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HUBEI.png" group-title="回看-卫视",湖北卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hubei
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HLJ.png" group-title="回看-卫视",黑龙江卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hljws
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HENAN.png" group-title="回看-卫视",河南卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hnws
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HEBEI.png" group-title="回看-卫视",河北卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hbws
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DN.png" group-title="回看-卫视",东南卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dnws
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-TJ.png" group-title="回看-卫视",天津卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=tjws
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SD.png" group-title="回看-卫视",山东卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=sdws
+
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JX.png" group-title="回看-卫视",江西卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jxws
+
+#EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GZ.png" group-title="回看-卫视",贵州卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=gzws
+
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HAINAN.png" group-title="回看-卫视",海南卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hainan
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SC.png" group-title="回看-卫视",四川卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=scws
+
+#EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GX.png" group-title="回看-卫视",广西卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=gxws
+
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-YN.png" group-title="回看-卫视",云南卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=ynws
+
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JL.png" group-title="回看-卫视",吉林卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jlws
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GS.png" group-title="回看-卫视",甘肃卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=gsws
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-QH.png" group-title="回看-卫视",青海卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=qhws
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NMG.png" group-title="回看-卫视",内蒙古卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=nmgws
+
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XJ.png" group-title="回看-卫视",新疆卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=xjws
+
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SX.png" group-title="回看-卫视",陕西卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=sxws
+
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SHANXI.png" group-title="回看-卫视",山西卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shanxi
+
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NX.png" group-title="回看-卫视",宁夏卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=nxws
+
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XZ.png" group-title="回看-卫视",西藏卫视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=xzws
+
+
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jbty.png" group-title="回看-地方",劲爆体育
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jbty
+
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉HD" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-xsj.png" group-title="回看-地方",新视觉HD
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=xsj
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-mlzq.png" group-title="回看-地方",魅力足球
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=mlzq
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-wxty.png" group-title="回看-地方",五星体育
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=wxty
+
+
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-xwzh.png" group-title="回看-地方",新闻综合
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shxwzh
+
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dfys.png" group-title="回看-地方",东方影视
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dfys
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jsrw.png" group-title="回看-地方",上海纪实
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jsrw
+
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dspd.png" group-title="回看-地方",上海都市
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shds
+
+#EXTINF:-1,tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-hhxd.png" group-title="回看-地方",哈哈炫动
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hhxd
+
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dycj.png" group-title="回看-地方",第一财经
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dycj
+
+#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dfcj.png" group-title="回看-地方",东方财经
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dfcj
+
+#EXTINF:-1 tvg-id="1991" tvg-name="ICS外语" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-ics.png" group-title="回看-地方",上海ICS外语
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shics
+
+#EXTINF:-1 tvg-id=" " tvg-name="都市剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dsjc.png" group-title="回看-地方",都市剧场
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dsjc
+
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-shss.png" group-title="回看-地方",生活时尚
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shss
+
+#EXTINF:-1 tvg-id="1987" tvg-name="乐游" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-yy.png" group-title="回看-地方",乐游
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=leyou
+
+#EXTINF:-1,tvg-id=" " tvg-name="动漫秀场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-dmxc.png" group-title="回看-地方",动漫秀场
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=dmxc
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-hxjc.png" group-title="回看-地方",欢笑剧场
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=hxjc
+
+#EXTINF:-1 tvg-id="1991" tvg-name="金色学堂" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-jsxt.png" group-title="回看-地方",金色学堂
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jsxt
+
+#EXTINF:-1 tvg-id="1991" tvg-name="游戏风云" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-yxfy.png" group-title="回看-地方",游戏风云
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=yxfy
+
+#EXTINF:-1 tvg-id="1991" tvg-name="法治天地" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-fztd.png" group-title="回看-地方",法治天地
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=fztd
+
+#EXTINF:-1 tvg-id="1991" tvg-name="七彩戏剧" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-qcxj.png" group-title="回看-地方",七彩戏剧
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=qcxj
+
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/sh-qcxj.png" group-title="回看-地方",上海教育
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=shjy
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-jyjs.png" group-title="回看-地方",金鹰纪实
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jyjs
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-jykt.png" group-title="回看-地方",金鹰卡通
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=jykt
+
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-klcd.png" group-title="回看-地方",快乐垂钓
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=klcd
+
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/hn-cpd.png" group-title="回看-地方",茶频道
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=cpd
+
+#EXTINF:-1 tvg-id="1874" tvg-name="北京纪实" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-jskj.png" group-title="回看-地方",北京纪实
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=bjjskj
+
+#EXTINF:-1,tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/bj-kkse.png" group-title="回看-地方",卡酷少儿
+http://129.226.149.79:4785/html/V4back.php?access_token=wodewxLSG&id=kkse
+
+
